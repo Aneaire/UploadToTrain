@@ -1,0 +1,19 @@
+{
+  "framework": "react",
+  "typescript": true,
+  "projectName": ".",
+  "mode": "file-router",
+  "tailwind": true,
+  "packageManager": "bun",
+  "toolchain": "none",
+  "variableValues": {},
+  "git": true,
+  "version": 1,
+  "existingAddOns": [
+    "clerk",
+    "netlify",
+    "shadcn",
+    "start",
+    "tanstack-query"
+  ]
+}
